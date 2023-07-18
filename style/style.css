@@ -103,3 +103,40 @@ nav ul li a {
 }
 
 .single-photo img {}
+
+
+/* footer start */
+footer {
+    background-color: #F5F5F9;
+    padding-top: 50px;
+}
+
+.footer-item-parent {
+    display: flex;
+}
+
+.footer-item {
+    width: 25%
+}
+
+.footer-item img {}
+
+.footer-item p {
+    padding-right: 50px;
+}
+
+.footer-item h5 {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+    color: #000000de;
+}
+
+.footer-item li {
+    list-style: none;
+    padding: 10px 0 10px 0;
+}
+
+.footer-item li a {
+    color: #000000d9;
+    text-decoration: none;
+}
